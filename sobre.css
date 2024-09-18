@@ -61,3 +61,17 @@
   .btn:hover:after{
     width: 100%;
   }
+.wrap{
+    display: flex;
+    justify-content: left;
+    align-items:left;
+    margin-left: 30px;
+}
+  .wrap div{
+    margin-top: 40px;
+    width: 40%;
+    text-align: center;
+  }
+  .p-01{
+    margin-top: 20px;
+  }
